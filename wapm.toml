@@ -1,7 +1,9 @@
 [package]
 name = "richard/clear"
-version = "0.0.3"
+version = "0.0.4"
 description = "clears an xterm compatible console"
+readme = "README.md"
+repository = "https://github.com/richardanaya/clear"
 
 [[module]]
 name = "clear"

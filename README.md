@@ -1,0 +1,1 @@
+A simple cli command for clearing the screen.
