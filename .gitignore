@@ -1,2 +1,4 @@
 /target
 **/*.rs.bk
+
+wapm_packages
