@@ -1,8 +1,13 @@
 [package]
-name = "clear"
-version = "0.0.1"
+name = "richard/clear"
+version = "0.0.2"
 description = "clears an xterm compatible console"
 
 [[module]]
 name = "clear"
 source = "clear.wasm"
+abi = "wasi"
+
+[[command]]
+name = "clear"
+module = "clear"
